@@ -1,0 +1,4 @@
+slotcoin
+========
+
+Cryptocurrency coin
